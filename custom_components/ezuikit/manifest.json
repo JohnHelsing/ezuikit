@@ -1,0 +1,12 @@
+{
+  "name": "EZVIZ camera",
+  "domain": "ezuikit",
+  "version": "1.0.0",
+  "name": "EZVIZ camera",
+  "documentation": "https://zhaohaixin.com",
+  "issue_tracker": "https://zhaohaixin.com",
+  "iot_class": "cloud_polling",
+  "dependencies": [],
+  "codeowners": ["helsing"],
+  "requirements": []
+}
